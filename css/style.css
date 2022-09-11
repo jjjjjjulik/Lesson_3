@@ -1,0 +1,41 @@
+
+*{
+    /* color: grey; */
+}
+div{
+    /* color: red; */
+}
+div.footer-text{
+    color: aquamarine;
+}
+.title-of-section{
+    color: green;
+}
+a{
+    color: lightsalmon;
+}
+.content-list li{
+    color: darkcyan;
+}
+#first-subsection{
+    color: hotpink;
+}
+.content-text.blue-text{
+    color: blue;
+}
+.second-section .title-of-section{
+    color: red;
+}
+
+.subtitle p{
+    color: yellowgreen;
+}
+.title *{
+    color: green;
+}
+.content-text > p{
+    /* color:grey; */
+}
+.content ~ p{
+    color: blue;
+}
